@@ -1,0 +1,5 @@
+Function       O3-OPENMP    O3-OPENMP-Error    O2-OPENMP    O2-OPENMP-Error    O1-OPENMP    O1-OPENMP-Error    Ofast-OPENMP    Ofast-OPENMP-Error
+L1-OPENMP     6080.940     310.411                     6070.586     362.862                     6081.579     305.527                                6081.579        305.527
+L2-OPENMP     6525.199     87.167                       6525.850     116.954                     6527.010     107.963                                6527.010        107.963
+L3-OPENMP     6249.900     1009.535                 6239.352     683.381                       6245.615     1299.222                              6245.615        1299.222
+

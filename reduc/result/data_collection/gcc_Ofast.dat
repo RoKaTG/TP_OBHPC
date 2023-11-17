@@ -1,0 +1,7 @@
+Function   Ofast     Ofast-Error
+BASE       21078.028 1278.74
+UNROLL4    17475.938 248.76
+UNROLL8    19071.560 1110.87
+CBLAS      9254.323  1243.13        
+OPENMP     149.751   6.76
+

@@ -1,0 +1,5 @@
+Function       O3-CBLAS    O3-CBLAS-Error    O2-CBLAS    O2-CBLAS-Error    O1-CBLAS    O1-CBLAS-Error    Ofast-CBLAS    Ofast-CBLAS-Error
+L1-CBLAS     6607.875     117.351                 6606.239     113.030                 6617.235     97.943                          6625.730        85.566
+L2-CBLAS     6601.094     62.177                   6603.006     69.668                   6609.074     60.325                          6610.654        46.345
+L3-CBLAS     6312.007     9338.540                6338.625     3684.549                 6309.615     11647.629                     6339.439        845.100
+

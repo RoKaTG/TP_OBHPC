@@ -1,0 +1,5 @@
+Function       O3-UNROLL8    O3-UNROLL8-Error    O2-UNROLL8    O2-UNROLL8-Error    O1-UNROLL8    O1-UNROLL8-Error    Ofast-UNROLL8    Ofast-UNROLL8-Error
+L1-UNROLL8     6632.390      110.628             6633.090      100.247             6632.586       78.507              6632.118         63.855
+L2-UNROLL8     6603.075      112.523             6608.012       98.200             6621.734       74.189              6603.047         80.855
+L3-UNROLL8     6390.575      2931.419            6395.828       693.806            6399.384       637.142             6399.178         851.165
+

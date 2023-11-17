@@ -1,0 +1,18 @@
+-O1 : 
+     title;             KiB;             MiB;             GiB;          n;          r;               d;             min;             max;            mean;                 stddev (%);      MiB/s
+   UNROLL4;           0.234;           0.000;           0.000;         15;        800;         164.869;           7.129;           7.312;           7.205;           0.025 ( 0.351 %);  15883.876
+
+
+-O2 : 
+     title;             KiB;             MiB;             GiB;          n;          r;               d;             min;             max;            mean;                 stddev (%);      MiB/s
+   UNROLL4;           0.234;           0.000;           0.000;         15;        800;         197.666;           7.459;           7.593;           7.488;           0.022 ( 0.291 %);  15282.794
+
+
+-O3 : 
+     title;             KiB;             MiB;             GiB;          n;          r;               d;             min;             max;            mean;                 stddev (%);      MiB/s
+   UNROLL4;           0.234;           0.000;           0.000;         15;        800;         448.960;           7.473;           7.679;           7.493;           0.035 ( 0.463 %);  15273.059
+
+
+-Ofast :
+     title;             KiB;             MiB;             GiB;          n;          r;               d;             min;             max;            mean;                 stddev (%);      MiB/s
+   UNROLL4;           0.234;           0.000;           0.000;         15;        800;          89.231;           5.770;           6.086;           5.802;           0.068 ( 1.164 %);  19724.881

@@ -1,0 +1,7 @@
+Function   O2        O2-Error
+BASE       6692.689  102.75
+UNROLL4    8406.532  24.38
+UNROLL8    8960.850  67.04
+CBLAS      9289.892  1149.82
+OPENMP     137.165   6.49
+
